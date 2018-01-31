@@ -5,7 +5,7 @@
 Copy font from multiple directories and move into one specific directory.
 Script specially develop for google fonts https://github.com/google/fonts to make easiest installation into windows.
 
-## Why this script develop:
+## Why OXO Font Copier developed:
 
 ## Requirements:
 
