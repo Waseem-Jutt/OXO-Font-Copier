@@ -1,2 +1,2 @@
 # OXO-Font-Copier
-Copy font from multiple directory and move into one specific direcory
+Copy font from multiple directories and move into one specific directory
